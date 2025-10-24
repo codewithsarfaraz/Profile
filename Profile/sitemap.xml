@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Home page -->
+  <url>
+    <loc>https://sarfaraz.fun/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Portfolio pages -->
+  <url>
+    <loc>https://resume.sarfaraz.fun/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://portfolio.sarfaraz.fun/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- Projects -->
+  <url>
+    <loc>https://calculator.sarfaraz.fun/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://selfmail.sarfaraz.fun/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://g-notebook.vercel.app/</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Certifications (optional page) -->
+  <url>
+    <loc>https://www.sarfaraz.fun/Image/DataScience.jpg</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.sarfaraz.fun/Image/CyberSecurity.jpg</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://www.sarfaraz.fun/Image/GoogleAnalytics.jpg</loc>
+    <lastmod>2025-10-24</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>
